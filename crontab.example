@@ -1,0 +1,1 @@
+* * * * * /home/miam/bin/autossh.sh >> /home/miam/bin/autossh.log 2>&1
